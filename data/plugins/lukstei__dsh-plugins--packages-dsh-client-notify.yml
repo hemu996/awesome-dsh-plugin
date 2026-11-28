@@ -1,0 +1,6 @@
+url: https://github.com/lukstei/dsh-plugins/tree/main/packages/dsh-client-notify
+name: lukstei/dsh-plugins#dsh-client-notify
+category: notify
+description:
+  en: Triggers desktop notifications, a chime, and PWA app-icon badges when a session stops or waits for approval.
+  zh: 在会话停止或等待审批时发送桌面通知、播放提示音，并更新 PWA 应用角标计数。
